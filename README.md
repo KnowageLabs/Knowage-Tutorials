@@ -103,3 +103,8 @@ Notes
 [6]: *KNOWAGE dataset creation (file and qbe types) by the user* tutorial on Knowage YouTube channel.
 
 [7]: *Cockpit creation - Knowage 6.4* tutorial on Knowage YouTube channel.
+
+How to contribute
+-----------
+Before start to contribute, please read and sign the [Contributor License Agreement](https://www.clahub.com/agreements/KnowageLabs/Knowage-Tutorials).
+The contribution process is based on GitHub pull requests (https://help.github.com/articles/about-pull-requests/).
